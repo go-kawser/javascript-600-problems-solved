@@ -19,7 +19,7 @@ Object.freeze(player);
 player.friend = "naymer";
 console.log(player);
 
-// problem------------------------->212
+// problem------------------------->211
 const animals = {
   name: "Tiger",
   location: "Sundarban",
