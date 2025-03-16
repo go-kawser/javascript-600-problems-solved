@@ -18,3 +18,12 @@ const player = {
 Object.freeze(player);
 player.friend = "naymer";
 console.log(player);
+
+// problem------------------------->212
+const animals = {
+  name: "Tiger",
+  location: "Sundarban",
+};
+Object.freeze(animals);
+animals.location = "Bandorbon";
+console.log(animals);
