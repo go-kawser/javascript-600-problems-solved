@@ -34,5 +34,3 @@ console.log(color.length);
 const city = ["dhaka", "tangail", "modupor", "nY"];
 const result = city.length;
 console.log(result);
-
-// problem------------------------->136
