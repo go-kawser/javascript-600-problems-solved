@@ -1,4 +1,4 @@
-// problem------------------------->214
+// problem--------------------------->214
 const gadget = {
   name: "iPhone",
   price: 120000,
