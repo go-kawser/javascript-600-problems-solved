@@ -42,3 +42,20 @@ function greetMet() {
 greetMet();
 
 // problem solved--------------------------->220
+function getFavFriends() {
+  console.log("nazmul", "numan", "shipon");
+}
+getFavFriends();
+
+// problem solved--------------------------->221
+function introduceMyself() {
+  console.log(
+    "name: kawser",
+    "age: 24",
+    "address: Tangail",
+    "phon: 0160988833883",
+    "height : 5:3`",
+    "eat: dal"
+  );
+}
+introduceMyself();
