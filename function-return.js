@@ -54,3 +54,13 @@ function average(a, b, c) {
   return total / 3;
 }
 console.log(average(3, 4, 12));
+
+// problem solved--------------------------->237
+function isNegative(negative) {
+  if (negative < 0) {
+    return negative * -1;
+  }
+  return false;
+}
+console.log(isNegative(2));
+console.log(isNegative(-12));
