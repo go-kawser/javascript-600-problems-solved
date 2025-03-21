@@ -36,3 +36,13 @@ function age(year, birthday) {
   console.log(currentAge);
 }
 age(2025, 2001);
+
+// problem solved--------------------------->226
+function dukandarKeTakaDilam(law) {
+  const lawPrice = 35;
+
+  const totalLawHave = law / lawPrice;
+  return totalLawHave;
+}
+const amiTotalLawPabo = dukandarKeTakaDilam(1000);
+console.log(amiTotalLawPabo);
