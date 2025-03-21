@@ -65,3 +65,11 @@ function sellingPrice(price) {
 }
 const sellGain = sellingPrice(299);
 console.log(sellGain);
+
+// problem solved--------------------------->229
+function myAge(birth) {
+  const latter = 100;
+  const totalMyAge = birth + latter;
+  console.log(totalMyAge);
+}
+myAge(2001);
