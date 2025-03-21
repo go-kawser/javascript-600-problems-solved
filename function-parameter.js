@@ -23,7 +23,7 @@ function threeSubject(sub, sub2, sub3) {
 }
 threeSubject(67, 90, 86);
 
-// problem solved--------------------------->225
+// different way
 function threeSubject(sub, sub2, sub3) {
   return sub + sub2 + sub3;
 }
@@ -31,3 +31,8 @@ const subNumber = threeSubject(89, 56, 88);
 console.log(subNumber);
 
 // problem solved--------------------------->225
+function age(year, birthday) {
+  const currentAge = year - birthday;
+  console.log(currentAge);
+}
+age(2025, 2001);
