@@ -56,3 +56,12 @@ function average(a, b, c, d) {
 
 const totalAverage = average(5, 1, 44, 3);
 console.log(totalAverage);
+
+// problem solved--------------------------->228
+function sellingPrice(price) {
+  const gain = 250;
+  const productPrice = price + gain;
+  return productPrice;
+}
+const sellGain = sellingPrice(299);
+console.log(sellGain);
