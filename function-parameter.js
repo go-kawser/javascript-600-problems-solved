@@ -46,3 +46,13 @@ function dukandarKeTakaDilam(law) {
 }
 const amiTotalLawPabo = dukandarKeTakaDilam(1000);
 console.log(amiTotalLawPabo);
+
+// problem solved--------------------------->227
+function average(a, b, c, d) {
+  const total = a + b + c + d;
+  const avg = total / 4;
+  return avg;
+}
+
+const totalAverage = average(5, 1, 44, 3);
+console.log(totalAverage);
