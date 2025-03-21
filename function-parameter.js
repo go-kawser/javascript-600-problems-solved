@@ -73,3 +73,11 @@ function myAge(birth) {
   console.log(totalMyAge);
 }
 myAge(2001);
+
+// problem solved--------------------------->230
+function mobileUse(use) {
+  let oneMonth = 30;
+  oneMonth *= use;
+  console.log(oneMonth);
+}
+mobileUse(4);
