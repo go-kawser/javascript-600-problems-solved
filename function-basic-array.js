@@ -9,3 +9,10 @@ function numberEvenOrOdd(nums) {
 }
 const number = [12, 33, 444, 666, 22];
 console.log(numberEvenOrOdd(number));
+
+// problem solved--------------------------->239
+function nameFirstLetterReturn(first) {
+  return first[0];
+}
+const firstLetter = nameFirstLetterReturn("Raju");
+console.log(firstLetter);
