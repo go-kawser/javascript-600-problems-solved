@@ -27,3 +27,10 @@ function numberGutterOrLessThan(n) {
 }
 const gutterNumber = numberGutterOrLessThan(9);
 console.log(gutterNumber);
+
+// problem solved--------------------------->241
+function rollNumber(roll) {
+  return roll[0] + roll[1];
+}
+const allStudentRollNumber = [12, 56, 11, 44, 12, 89];
+console.log(rollNumber(allStudentRollNumber));
