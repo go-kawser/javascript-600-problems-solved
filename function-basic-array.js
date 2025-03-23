@@ -59,3 +59,10 @@ function nameReturn(first, second) {
 }
 const nameLength = nameReturn("kamal", "jama");
 console.log(nameLength);
+
+// problem solved--------------------------->244
+function multiplicationReturn(m1, m2) {
+  const total = m1 * m2;
+  if (total > 100) return total / 2;
+}
+console.log(multiplicationReturn(12, 10));
