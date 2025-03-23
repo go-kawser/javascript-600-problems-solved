@@ -45,3 +45,17 @@ function positiveNegative(n) {
 }
 console.log(positiveNegative(10));
 console.log(positiveNegative(11));
+
+// problem solved--------------------------->243
+function nameReturn(first, second) {
+  const firstName = first.length;
+  const secondName = second.length;
+
+  if (firstName > secondName) {
+    return true;
+  } else {
+    return false;
+  }
+}
+const nameLength = nameReturn("kamal", "jama");
+console.log(nameLength);
