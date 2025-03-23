@@ -18,11 +18,11 @@ const firstLetter = nameFirstLetterReturn("Raju");
 console.log(firstLetter);
 
 // problem solved--------------------------->240
-function numberGutterOrLessThan(n) {
-  if (n > 10) {
-    return n / 10;
+function numberGutterOrLessThan(nm) {
+  if (nm > 10) {
+    return nm / 10;
   } else {
-    return n * 10;
+    return nm * 10;
   }
 }
 const gutterNumber = numberGutterOrLessThan(9);
@@ -34,3 +34,14 @@ function rollNumber(roll) {
 }
 const allStudentRollNumber = [12, 56, 11, 44, 12, 89];
 console.log(rollNumber(allStudentRollNumber));
+
+// problem solved--------------------------->242
+function positiveNegative(n) {
+  if (n % 2 === 0) {
+    return n * 2;
+  } else {
+    return n * 3;
+  }
+}
+console.log(positiveNegative(10));
+console.log(positiveNegative(11));
