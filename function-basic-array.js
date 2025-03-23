@@ -18,3 +18,12 @@ const firstLetter = nameFirstLetterReturn("Raju");
 console.log(firstLetter);
 
 // problem solved--------------------------->240
+function numberGutterOrLessThan(n) {
+  if (n > 10) {
+    return n / 10;
+  } else {
+    return n * 10;
+  }
+}
+const gutterNumber = numberGutterOrLessThan(9);
+console.log(gutterNumber);
