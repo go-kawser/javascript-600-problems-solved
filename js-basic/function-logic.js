@@ -13,3 +13,10 @@ function kilowattHoursToKilocalories(kc) {
   return kilocalorie;
 }
 console.log(kilowattHoursToKilocalories(10));
+
+// problem solved------------------------------>254
+// we know 1 hour = 60 minutes and 1 minute = 60 seconds
+function hourToMinutes(min) {
+  return min * 60;
+}
+console.log(hourToMinutes(2));
