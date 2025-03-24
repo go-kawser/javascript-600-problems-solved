@@ -43,3 +43,10 @@ function poundToKilograms(kg) {
   return kilograms;
 }
 console.log(poundToKilograms(2));
+
+// problem solved------------------------------>258
+// we know ------>1 gauge = 0.91 meter and problem -------->gauge to meter convert
+function gaugeToMeter(meter) {
+  return meter * 0.91;
+}
+console.log(gaugeToMeter(2));
