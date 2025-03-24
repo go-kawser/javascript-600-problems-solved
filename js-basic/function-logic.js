@@ -28,3 +28,10 @@ function centimeterToMeter(cm) {
   return centimeter;
 }
 console.log(centimeterToMeter(590));
+
+// problem solved------------------------------>256
+// we know 1 inch = 2.54 centimeter and problem is inchToCentimeter convert
+function inchToCentimeter(cn) {
+  return cn * 2.54;
+}
+console.log(inchToCentimeter(10));
