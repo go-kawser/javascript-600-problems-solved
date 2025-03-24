@@ -20,3 +20,11 @@ function hourToMinutes(min) {
   return min * 60;
 }
 console.log(hourToMinutes(2));
+
+// problem solved------------------------------>255
+// we know 1 meter = 100 centimeter
+function centimeterToMeter(cm) {
+  const centimeter = cm / 100;
+  return centimeter;
+}
+console.log(centimeterToMeter(590));
