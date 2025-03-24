@@ -18,3 +18,17 @@ console.log(littleElementReturn([12, 45]));
 console.log(littleElementReturn([12, 9]));
 
 // problem solved---------------------------->247
+function ageHide(age) {
+  let ageLess = 18;
+  let ageGain = 45;
+  if (age < 18) return ageLess;
+  else if (age > 45) return ageGain;
+  else {
+    return age;
+  }
+}
+console.log(ageHide(16));
+console.log(ageHide(32));
+console.log(ageHide(50));
+
+// problem solved---------------------------->248
