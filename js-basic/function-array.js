@@ -68,7 +68,7 @@ function sumOfNegativeNumber(negatives) {
 const numbers = [12, 44, 15, 17, 7];
 console.log(sumOfNegativeNumber(numbers));
 
-// problem solved---------------------------->250
+// problem solved---------------------------->251
 function divisionOfArrayMultiplication(divs) {
   let mul = 1;
   for (const div of divs) {
