@@ -35,3 +35,11 @@ function inchToCentimeter(cn) {
   return cn * 2.54;
 }
 console.log(inchToCentimeter(10));
+
+// problem solved------------------------------>257
+// we know ------> 1 pound = 0.453592 kilograms
+function poundToKilograms(kg) {
+  const kilograms = kg * 0.453592;
+  return kilograms;
+}
+console.log(poundToKilograms(2));
