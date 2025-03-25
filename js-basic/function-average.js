@@ -18,3 +18,23 @@ function evenAverage(numbers) {
 }
 const number = [12, 6, 9];
 console.log(evenAverage(number));
+
+// problem solved------------------------------>263
+function oddArrayMultiple(numbers) {
+  let odds = [];
+  for (const number of numbers) {
+    // console.log(number);
+    if (number % 2 === 1) {
+      odds.push(number * 2);
+    }
+  }
+  if (odds.length === 0) {
+    console.log("Array not have odds index element");
+  } else {
+    console.log(odds);
+  }
+}
+const number1 = [12, 6, 50];
+oddArrayMultiple(number1);
+
+// problem solved------------------------------>264
