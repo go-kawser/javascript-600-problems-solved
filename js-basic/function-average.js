@@ -34,7 +34,22 @@ function oddArrayMultiple(numbers) {
     console.log(odds);
   }
 }
-const number1 = [12, 6, 50];
+const number1 = [12, 6, 5, 11, 50];
 oddArrayMultiple(number1);
 
 // problem solved------------------------------>264
+function oddNumber(numbers) {
+  let odd = [];
+  for (const number of numbers) {
+    if (number % 2 === 1) {
+      odd.push(number);
+    }
+  }
+  if (odd.length === 0) {
+    console.log("No odd numbers found");
+  } else {
+    console.log("Odd numbers found");
+  }
+}
+const number2 = [10, 11, 9, 19, 4];
+oddNumber(number2);
