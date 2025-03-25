@@ -53,3 +53,25 @@ function oddNumber(numbers) {
 }
 const number2 = [10, 11, 9, 19, 4];
 oddNumber(number2);
+
+// problem solved------------------------------>265
+function oddAverage(numbers) {
+  let odd2 = [];
+  for (const number of numbers) {
+    if (number % 2 !== 0) {
+      odd2.push(number);
+    }
+  }
+  if (odd2.length === 0) {
+    return 0;
+  }
+  let sum = 0;
+  for (const number of odd2) {
+    sum += number;
+  }
+  const avg = Number((sum / odd2.length).toFixed(2));
+  return avg;
+}
+
+const number4 = [12, 44, 9, 10, 17, 21];
+console.log(oddAverage(number4));
