@@ -75,3 +75,16 @@ function oddAverage(numbers) {
 
 const number4 = [12, 44, 9, 10, 17, 21];
 console.log(oddAverage(number4));
+
+// problem solved------------------------------>266
+function arraySubtraction(numbers) {
+  let sub = [];
+  for (const number of numbers) {
+    if (number % 2 !== 0) {
+      sub.push(number - 1);
+    }
+  }
+  console.log(sub);
+}
+const number5 = [12, 9, 7, 11, 87];
+arraySubtraction(number5);
