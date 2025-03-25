@@ -54,3 +54,15 @@ console.log(productDelivery(43));
 console.log(productDelivery(60));
 
 // problem solved------------------------------>261
+function studentMarks(marks) {
+  if (marks >= 80) return "A";
+  else if (marks >= 70) return "B";
+  else if (marks >= 60) return "C";
+  else if (marks >= 50) return "D";
+  else return "F";
+}
+console.log(studentMarks(86));
+console.log(studentMarks(75));
+console.log(studentMarks(65));
+console.log(studentMarks(55));
+console.log(studentMarks(40));
