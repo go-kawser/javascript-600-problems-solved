@@ -1,4 +1,4 @@
-// extra example // just fun
+// extra example // just fun and enjoy
 // simple exchange
 let a = 10;
 let b = 20;
