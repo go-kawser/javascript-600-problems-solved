@@ -15,3 +15,12 @@ const temp = x;
 x = y;
 y = temp;
 console.log(x, y);
+
+// another temp exchange example
+let name = "kawser";
+let jan = "maria";
+console.log(name, jan);
+const temp1 = "kawser";
+name = jan;
+jan = temp1;
+console.log(name, jan);
