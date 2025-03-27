@@ -24,3 +24,6 @@ const temp1 = "kawser";
 name = jan;
 jan = temp1;
 console.log(name, jan);
+
+// -------------------------------------------------------------
+// end basic js problem solved
