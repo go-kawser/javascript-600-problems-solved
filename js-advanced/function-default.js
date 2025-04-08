@@ -59,7 +59,7 @@ function marketPrice(product) {
   return result;
 }
 
-console.log(marketPrice(product)); // ✅ Output: 3000
+console.log(marketPrice(product));
 
 // problem solved------------------------------>275
 
