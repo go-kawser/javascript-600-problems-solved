@@ -30,7 +30,7 @@ function squire(number = 1) {
 }
 console.log(squire(3));
 
-// problem solved------------------------------>272
+// problem solved--------------------------------->272
 // function product(phone = "Unknown product", price = 1) {}
 function product(phone = "Unknown product", price = 1) {
   const total = `${phone} costs ${price}`;

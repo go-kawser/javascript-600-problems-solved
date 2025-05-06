@@ -1,4 +1,4 @@
-// extra practice
+// extra practice and practice
 function laptopBuy(one, two) {
   const result = one + two;
   console.log(one, two, result);
