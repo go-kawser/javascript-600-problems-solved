@@ -8,7 +8,6 @@ const price = laptopBuy(20000, 30000);
 console.log(price);
 
 // another example is here
-
 function iAmDhakaNow(someDay, tenDays) {
   return someDay + tenDays;
 }
