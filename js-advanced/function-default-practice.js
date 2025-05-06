@@ -6,3 +6,12 @@ function laptopBuy(one, two) {
 }
 const price = laptopBuy(20000, 30000);
 console.log(price);
+
+// another example is here
+
+function iAmDhakaNow(someDay, tenDays) {
+  return someDay + tenDays;
+}
+
+const totalDays = iAmDhakaNow(10, 2);
+console.log(totalDays);
