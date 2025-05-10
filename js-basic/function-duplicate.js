@@ -13,3 +13,14 @@ function noDuplicate(array) {
 const number = [1, 5, 61, 5, 87, 5, 81, 61];
 const uniqueArray = noDuplicate(number);
 console.log(uniqueArray);
+
+// another example
+function noDuplicate2(n) {
+  const unique = [];
+  for (const number of n) {
+    if (unique.includes(number) === false) {
+      unique.push(number);
+    }
+  }
+  return unique;
+}
