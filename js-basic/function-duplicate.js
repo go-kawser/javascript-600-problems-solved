@@ -24,3 +24,4 @@ function noDuplicate2(n) {
   }
   return unique;
 }
+console.log(noDuplicate2([12, 33, 12, 10, 10, 8]));
