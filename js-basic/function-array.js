@@ -1,6 +1,7 @@
 // problem solved--------------------------->245
 function sumOddNumbers(odds) {
   let sum = 0;
+  // short cut for loop
   for (const odd of odds) if (odd % 2 === 1) sum += odd;
   return sum;
 }
