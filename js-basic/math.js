@@ -49,6 +49,14 @@ console.log(division);
 const totalRemainder = a % b;
 console.log(totalRemainder);
 
+// another way to solved
+const x = 10;
+const y = 4;
+const division2 = x / y;
+console.log(division2);
+const totalRemainder2 = x % y;
+console.log(totalRemainder2);
+
 // problem------------------------->36
 const justRemainder = 50 % 9;
 console.log(justRemainder);
