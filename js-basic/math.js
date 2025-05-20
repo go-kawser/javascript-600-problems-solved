@@ -67,7 +67,7 @@ const desh = "desh";
 const bangladesh = bangla + desh;
 console.log(bangladesh);
 
-// problem------------------------->38
+// problem basic problem solved------------------------->38
 
 // 12 mon rice = 480 kg
 // 1 mas = 30 days
