@@ -5,6 +5,7 @@ function inchToFeet(inch) {
   return inch / 12;
 }
 console.log(inchToFeet(67));
+console.log(inchToFeet(70));
 
 // another example
 /*
