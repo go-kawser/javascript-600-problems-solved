@@ -1,6 +1,5 @@
-// simple math in javascript
-
-// problem------------------------->29
+// simple basic math in javascript
+// problem subtraction related basic problem solved now------------------------->29
 const earn = 100;
 const cost = 40;
 const remaining = earn - cost;
