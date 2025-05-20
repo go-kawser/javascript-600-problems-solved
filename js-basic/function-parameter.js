@@ -19,7 +19,9 @@ makeCalculator(number, number2);
 // problem solved--------------------------->224
 function threeSubject(sub, sub2, sub3) {
   const total = sub + sub2 + sub3;
+  const total2 = sub + sub2 + sub3;
   console.log(total);
+  console.log(total2);
 }
 threeSubject(67, 90, 86);
 
