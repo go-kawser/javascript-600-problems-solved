@@ -62,7 +62,32 @@ function marketPrice(product) {
 console.log(marketPrice(product));
 
 // problem solved------------------------------>275
+// array multiply
+function multiplyArray(array = [10, 20, 15]) {
+  const result = [];
+  for (let i = 0; i < array.length; i++) {
+    result.push(array[i] * 2);
+  }
+  return result;
+}
+console.log(multiplyArray([1, 2, 3]));
+console.log(multiplyArray());
 
 // problem solved------------------------------>276
+function simpleInterest(principal = 1000, rate = 5) {
+  const interest = (principal * rate) / 100;
+  return interest;
+}
+
+console.log(simpleInterest(2000, 10));
+console.log(simpleInterest());
 
 // problem solved------------------------------>277
+function netSalary(salary = 50000, tax = 10) {
+  const taxAmount = (salary * tax) / 100;
+  const net = salary - taxAmount;
+  return net;
+}
+
+console.log(netSalary(60000, 15)); // 51000
+console.log(netSalary()); // 45000
