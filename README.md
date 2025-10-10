@@ -1,6 +1,6 @@
-### 600+ JavaScript Problems Solved
+# 600+ JavaScript Problems Solved
 
-# Welcome to my JavaScript Problem-Solving Repository!!!
+## Welcome to my JavaScript Problem-Solving Repository!!!
 
 This repo contains 600+ JavaScript problems that I solved to master programming fundamentals, strengthen problem-solving skills, and prepare for real-world software development & technical interviews.
 
@@ -30,15 +30,15 @@ js-advanced/ ---> Advanced problems (recursion, closures, higher-order functions
 
 ⚡ How to Run:
 
-# Clone the repository
+### Clone the repository
 
 git clone https://github.com/Kawser420/600-js-problem-solves.git
 
-# Navigate into the project
+### Navigate into the project
 
 cd 600-js-problem-solves
 
-# Run any file
+### Run any file
 
 node js-basic/problem-1.js
 
@@ -50,7 +50,7 @@ node js-basic/problem-1.js
 
 ✅ Includes data structures, algorithms, and problem-solving patterns
 
-# Key Outcomes
+### Key Outcomes
 
 1. Through solving 600+ problems, I have:
 2. Learned to write clean & efficient code
@@ -58,4 +58,4 @@ node js-basic/problem-1.js
 4. Built confidence for remote developer jobs & interviews
 5. Developed the mindset of a professional software engineer
 
-# note: Consistency builds mastery. This repo is proof of my journey to becoming a stronger problem-solver and a professional developer.
+#### note: Consistency builds mastery. This repo is proof of my journey to becoming a stronger problem-solver and a professional developer.
