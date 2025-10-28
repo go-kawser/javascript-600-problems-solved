@@ -1,4 +1,4 @@
-// problem------------------------->184
+// problem solved------------------------->184
 const teacher = {
   name: "jhankar",
   sub: "code",
@@ -7,7 +7,7 @@ const teacher = {
   home: "America",
 };
 
-// problem------------------------->185
+// problem solved------------------------->185
 const tree = {
   isTree: true,
   treeName: "mango",
@@ -16,12 +16,12 @@ const tree = {
   fruit: "mango",
 };
 
-// problem------------------------->186
+// problem solved------------------------->186
 const animals = {
   name: ["cat", "dog", "itor", "tlapuka", "person", "man", "woman"],
 };
 
-// problem------------------------->187
+// problem solved------------------------->187
 const father = {
   name: "Taijuddin",
   profession: "businessman",
@@ -29,7 +29,7 @@ const father = {
   child: 4,
 };
 
-// problem------------------------->188
+// problem solved------------------------->188
 const motorBike = {
   brand: "yamaha",
   wheels: 2,
@@ -37,14 +37,14 @@ const motorBike = {
   speed: 300,
 };
 
-// problem------------------------->189
+// problem solved------------------------->189
 const bird = {
   name: "quail",
   colo: "black",
   food: "rice",
 };
 
-// problem------------------------->190
+// problem solved------------------------->190
 const laptop = {
   brand: "hp",
   processor: 3,

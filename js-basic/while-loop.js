@@ -1,25 +1,25 @@
-// problem------------------------->159
+// problem solved------------------------->159
 let num = 1;
 while (num <= 10) {
   console.log("i will practice code every day in 3 hours In Sha Allah");
   num++;
 }
 
-// problem------------------------->160
+// problem solved------------------------->160
 let number = 1;
 while (number < 20) {
   console.log(number);
   number++;
 }
 
-// problem------------------------->161
+// problem solved------------------------->161
 let digit = 50;
 while (digit < 100) {
   console.log(digit);
   digit++;
 }
 
-// problem------------------------->162
+// problem solved------------------------->162
 let numbers = 1;
 while (numbers < 10) {
   const multiple = numbers * 3;
@@ -27,7 +27,7 @@ while (numbers < 10) {
   numbers++;
 }
 
-// problem------------------------->163
+// problem solved------------------------->163
 let num2 = 111;
 while (num2 >= 110) {
   divide = num2 / 2;
@@ -35,14 +35,14 @@ while (num2 >= 110) {
   num2--;
 }
 
-// problem------------------------->164
+// problem solved------------------------->164
 let num3 = 50;
 while (num3 < 100) {
   console.log(num3);
   num3++;
 }
 
-// problem------------------------->165
+// problem solved------------------------->165
 let num4 = 5;
 let sum = 0;
 while (num4 <= 15) {
@@ -51,7 +51,7 @@ while (num4 <= 15) {
   num4++;
 }
 
-// problem------------------------->166
+// problem solved------------------------->166
 let rollIncrease = 1;
 let rollSum = 0;
 while (rollIncrease <= 50) {
@@ -60,7 +60,7 @@ while (rollIncrease <= 50) {
   rollIncrease++;
 }
 
-// problem------------------------->167
+// problem solved------------------------->167
 let num5 = 21;
 let sum2 = 0;
 while (num5 < 50) {
@@ -69,7 +69,7 @@ while (num5 < 50) {
   num5++;
 }
 
-// problem------------------------->168
+// problem solved------------------------->168
 let digitNumber = 20;
 let digitAdd = 0;
 let lastNumber = 40;

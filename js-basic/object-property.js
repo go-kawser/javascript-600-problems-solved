@@ -1,4 +1,4 @@
-// problem------------------------->204
+// problem solved------------------------->204
 const article = {
   title: "LearningJs",
   category: "Programming",
@@ -8,7 +8,7 @@ const keys = Object.keys(article);
 const hasAuthor = keys.includes("author");
 console.log(hasAuthor);
 
-// problem------------------------->205
+// problem solved------------------------->205
 const profile = {
   name: "Rahim",
   age: 28,

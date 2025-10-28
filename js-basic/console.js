@@ -1,29 +1,29 @@
 // let's some console.log variable declare
 
-// problem------------->08
+// problem solved------------->08
 const age = 24;
 console.log(age);
 
-// problem------------------->09
+// problem solved------------------->09
 const booksToRead = 5;
 console.log(booksToRead);
 
-// problem--------------->10
+// problem solved--------------->10
 const wakeUpTime = 8;
 console.log(wakeUpTime);
 
-// problem----------------->11
+// problem solved----------------->11
 const wastedTime = 5;
 console.log(wastedTime);
 
-// problem----------------------->12
+// problem solved----------------------->12
 const borrow = 500000;
 console.log(borrow);
 
-// problem-------------------->13
+// problem solved-------------------->13
 const goals = 5;
 console.log(goals);
 
-// problem-------------------->14
+// problem solved-------------------->14
 const pillow = 1;
 console.log(pillow);

@@ -1,4 +1,4 @@
-// problem------------------------->212
+// problem solved------------------------->212
 const book = {
   title: "Harry Potter",
   author: "JK Rowling",
@@ -8,7 +8,7 @@ Object.seal(book);
 book.author = "King Khan";
 console.log(book);
 
-// problem------------------------->213
+// problem solved------------------------->213
 const food = {
   name: "Pizza",
   price: 500,

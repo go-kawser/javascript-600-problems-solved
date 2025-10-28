@@ -1,4 +1,4 @@
-// problem------------------------->209
+// problem solved------------------------->209
 const headphone = {
   brand: "Sony",
   price: 3000,
@@ -9,7 +9,7 @@ Object.freeze(headphone);
 headphone.country = "USA";
 console.log(headphone);
 
-// problem------------------------->210
+// problem solved------------------------->210
 const player = {
   name: "Messi",
   goals: 800,
@@ -19,7 +19,7 @@ Object.freeze(player);
 player.friend = "naymer";
 console.log(player);
 
-// problem------------------------->211
+// problem solved------------------------->211
 const animals = {
   name: "Tiger",
   location: "Sundarban",

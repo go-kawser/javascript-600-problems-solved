@@ -1,4 +1,4 @@
-// problem------------------------->191
+// problem solved------------------------->191
 const player = {
   name: "kawer",
   age: 24,
@@ -7,7 +7,7 @@ const player = {
 };
 console.log(player.team);
 
-// problem------------------------->192
+// problem solved------------------------->192
 const laptop = {
   brand: "HP",
   price: 55000,
@@ -17,7 +17,7 @@ const laptop = {
 };
 console.log(laptop.screenSize);
 
-// problem------------------------->193
+// problem solved------------------------->193
 const favPlace = {
   name: "Cox's Bazar",
   distance: "400km",
@@ -25,7 +25,7 @@ const favPlace = {
 };
 console.log(favPlace.popularity);
 
-// problem------------------------->194
+// problem solved------------------------->194
 const phone = {
   brad: "Nokia",
   color: "Black",
@@ -34,7 +34,7 @@ const phone = {
 
 console.log(phone.price);
 
-// problem------------------------->195
+// problem solved------------------------->195
 const library = {
   name: "public Library",
   location: "Dhaka",
@@ -42,7 +42,7 @@ const library = {
 };
 console.log(library.books);
 
-// problem------------------------->196
+// problem solved------------------------->196
 const movie = {
   title: "inception",
   director: "Nolan",
@@ -51,7 +51,7 @@ const movie = {
 
 console.log(movie.rating);
 
-// problem------------------------->197
+// problem solved------------------------->197
 
 const college = {
   name: "ndc",
@@ -60,7 +60,7 @@ const college = {
 };
 console.log(college.groups[1]);
 
-// problem------------------------->198
+// problem solved------------------------->198
 const family = {
   father: {
     name: "taijuddin",

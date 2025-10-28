@@ -9,7 +9,7 @@ if (price >= 5000) {
 }
 */
 
-// problem------------------------->110
+// problem solved------------------------->110
 const buyProduct = 4500;
 if (buyProduct >= 3000) {
   const discount = (buyProduct / 100) * 5;
@@ -23,7 +23,7 @@ if (buyProduct >= 3000) {
   console.log("No Discount");
 }
 
-// problem------------------------->111
+// problem solved------------------------->111
 const eatPrice = 200;
 const childEat = 0;
 if (eatPrice >= 100) {
@@ -38,7 +38,7 @@ if (eatPrice >= 100) {
   console.log(pay);
 }
 
-// problem------------------------->112
+// problem solved------------------------->112
 const bankBalance = 6000;
 if (bankBalance < 1000) {
   console.log("deposit");
@@ -48,7 +48,7 @@ if (bankBalance < 1000) {
   console.log("rich");
 }
 
-// problem------------------------->113
+// problem solved------------------------->113
 const studentExam = 61;
 if (studentExam < 50) {
   console.log("Fail");
@@ -58,7 +58,7 @@ if (studentExam < 50) {
   console.log("A+");
 }
 
-// problem------------------------->114
+// problem solved------------------------->114
 const bookPage = 446;
 if (bookPage < 100) {
   console.log("small book");
@@ -68,7 +68,7 @@ if (bookPage < 100) {
   console.log("heart-attack size book");
 }
 
-// problem------------------------->115
+// problem solved------------------------->115
 const temperature = 34;
 if (temperature < 0) {
   console.log("ice");
@@ -78,7 +78,7 @@ if (temperature < 0) {
   console.log("Hot Hot");
 }
 
-// problem------------------------->116
+// problem solved------------------------->116
 const myGameApp = 56;
 if (myGameApp < 10) {
   console.log("novice");

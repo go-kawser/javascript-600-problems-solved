@@ -1,4 +1,4 @@
-// problem------------------------->199
+// problem solved------------------------->199
 const books = {
   name: "jhankar",
   written: "mahbub",
@@ -12,7 +12,7 @@ const values = Object.values(books);
 console.log(keys);
 console.log(values);
 
-// problem------------------------->200
+// problem solved------------------------->200
 const bike = {
   brand: "Hero",
   price: 120000,
@@ -22,7 +22,7 @@ const bike = {
 const value = Object.values(bike);
 console.log(value);
 
-// problem------------------------->201
+// problem solved------------------------->201
 const player = {
   name: "Messi",
   team: "Argentina",

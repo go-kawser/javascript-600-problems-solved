@@ -1,4 +1,4 @@
-// problem------------------------->202
+// problem solved------------------------->202
 const numbers = {
   a: 10,
   b: 20,
@@ -13,7 +13,7 @@ for (let i = 0; i < total.length; i++) {
 }
 console.log(sum);
 
-// problem------------------------->203
+// problem solved------------------------->203
 const phone = {
   brand: "Samsung",
   model: "Galaxy S21",

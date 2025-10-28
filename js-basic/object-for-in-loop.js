@@ -1,4 +1,4 @@
-// problem------------------------->206
+// problem solved------------------------->206
 const laptop = {
   brand: "Dell",
   model: "Inspiron",
@@ -9,7 +9,7 @@ for (const key in laptop) {
   console.log(value);
 }
 
-// problem------------------------->207
+// problem solved------------------------->207
 const books = {
   book1: "Harry Potter",
   book2: "The Hobbit",
@@ -21,7 +21,7 @@ for (const key in books) {
   console.log(value);
 }
 
-// problem------------------------->208
+// problem solved------------------------->208
 const building = {
   floors: 10,
   address: {

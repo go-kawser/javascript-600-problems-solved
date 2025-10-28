@@ -1,4 +1,4 @@
-// problem------------------------->117
+// problem solved------------------------->117
 const myFriendEvent = 1200;
 const notGift = 500;
 if (myFriendEvent >= 1000) {
@@ -12,7 +12,7 @@ if (notGift <= 600) {
   console.log("no money for my friend");
 }
 
-// problem------------------------->118
+// problem solved------------------------->118
 const cha = true;
 const biscut = true;
 
@@ -27,7 +27,7 @@ if (biscut === false) {
   console.log("tara biscut khabe na");
 }
 
-// problem------------------------->119
+// problem solved------------------------->119
 const isAction = true;
 const subscription = false;
 if (isAction === true) {
@@ -41,7 +41,7 @@ if (subscription === false) {
   console.log("Shodo free vesion dekho");
 }
 
-// problem------------------------->120
+// problem solved------------------------->120
 const isFood = false;
 const isFoodApp = true;
 if (isFood === true) {
@@ -55,7 +55,7 @@ if (isFoodApp === true) {
   console.log("ami roamdane roja rakhchi");
 }
 
-// problem------------------------->121
+// problem solved------------------------->121
 const giftPerson = 100;
 const isGift = true;
 

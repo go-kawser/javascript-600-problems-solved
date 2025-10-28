@@ -1,17 +1,17 @@
 // simple basic math in javascript
-// problem subtraction related basic problem solved now------------------------->29
+// problem solved subtraction related basic problem solved solved now------------------------->29
 const earn = 100;
 const cost = 40;
 const remaining = earn - cost;
 console.log(remaining);
 
-// division problem solved now------------------------->30
+// division problem solved solved now------------------------->30
 const iHavePencil = 10;
 const twiceUse = 2;
 const totalUse = iHavePencil / twiceUse;
 console.log(totalUse);
 
-// problem------------------------->31
+// problem solved------------------------->31
 const iHaveMoney = 60;
 const costPerTime = 15;
 const totalPerTime = iHaveMoney / costPerTime;
@@ -20,19 +20,19 @@ console.log(totalPerTime);
 const firstTimeUseRemainder = iHaveMoney % costPerTime;
 console.log(firstTimeUseRemainder);
 
-// problem------------------------->32
+// problem solved------------------------->32
 const first = "Hello";
 const second = "World";
 const fullSentence = first + second;
 console.log(fullSentence);
 
-// problem------------------------->33
+// problem solved------------------------->33
 const iBuyRice = 153;
 const iBuyLentil = 262;
 const totalBuy = iBuyRice * iBuyLentil;
 console.log(totalBuy);
 
-// problem------------------------->34
+// problem solved------------------------->34
 const totalMoney = 500;
 const perCost = 75;
 const totalPerCost = totalMoney / perCost;
@@ -40,7 +40,7 @@ console.log(totalPerCost);
 const lastRemainder = totalMoney % perCost;
 console.log(lastRemainder);
 
-// problem------------------------->35
+// problem solved------------------------->35
 const a = 8;
 const b = 3;
 const division = 8 / 3;
@@ -56,17 +56,17 @@ console.log(division2);
 const totalRemainder2 = x % y;
 console.log(totalRemainder2);
 
-// problem------------------------->36
+// problem solved------------------------->36
 const justRemainder = 50 % 9;
 console.log(justRemainder);
 
-// problem------------------------->37
+// problem solved------------------------->37
 const bangla = "Bangla";
 const desh = "desh";
 const bangladesh = bangla + desh;
 console.log(bangladesh);
 
-// problem basic problem solved------------------------->38
+// problem solved basic problem solved solved------------------------->38
 
 // 12 mon rice = 480 kg
 // 1 mas = 30 days
