@@ -1,6 +1,6 @@
-# JS Advanced | Deep Dives and Practical Patterns
+# JS Advanced - Deep Dives and Practical Patterns
 
-This folder contains advanced, carefully curated JavaScript examples and problems that demonstrate deep language features, real-world patterns, and performance-aware solutions. It's built for developers preparing for senior/technical interviews, engineers wanting to sharpen practical skills, and clients reviewing code quality and engineering judgment.
+This folder contains advanced, carefully curated JavaScript examples and problems that demonstrate deep language features, real-world patterns, and performance-aware solutions. It's built for developers preparing for senior technical interviews, engineers wanting to sharpen practical skills, and clients reviewing code quality and engineering judgment.
 
 **Contents are focused on clarity, correctness, and teachability:** each file isolates a single advanced concept, includes explanatory comments, and provides small runtime examples so you can inspect behavior quickly.
 
@@ -96,14 +96,46 @@ If you'd like, I can scaffold tests and a `package.json` for this repo.
 - Avoid executing untrusted inputs in examples. Examples that demonstrate parsing or evaluation should sanitize inputs or clearly warn the reader.
 - For file/IO/network examples, clean up resources and handle errors explicitly.
 
-#### Contact and Next Steps
+### Next Steps
 
 **Want this folder to be production-ready for client review? I can:**
 
 - Add a minimal `package.json` and test runner with one example test.
 - Add CI badges and a small contributors guide (`CONTRIBUTING.md`).
 - Create a short showcase script that runs a few representative advanced examples and prints a summary.
-- **Email:** abu.kayser.official@gmail.com
   **Tell me which of the above you'd like next and I will scaffold it.**
+
+---
+
+### License
+
+- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
+- You may replace or update the license as needed for client or proprietary projects.
+
+---
+
+### Contact and Maintainer
+
+**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
+**Name:** Md Abu Kayser - Full-Stack Engineer
+
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **Problem:** _JS Advanced - Deep Dives and Practical Patterns_
+
+If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
+
+---
+
+It’s designed to be **clean, well-structured**, and **pleasant to explore** - perfect for interviews or professional problems solved.
+
+---
+
+**If a client or maintainer wants to discuss improvements, pair on content, or request additional problem sets, please open an issue or reach out via the repo's contact information.**
+
+---
+
+**Enjoy learning and exploring JavaScript - advanced problems lead to mega understanding.**
+**Thank you for reviewing this project!**
 
 ---
