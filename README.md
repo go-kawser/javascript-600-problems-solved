@@ -1,9 +1,9 @@
-# JavaScript | 600+ Problems Solved
+# JavaScript - 600+ Problems Solved
 
 A curated collection of concise, well-documented JavaScript solutions and learning exercises spanning foundational to advanced topics. Organized into two focused workspaces:
 
-- `js-basic` | core language fundamentals and small practice problems (arrays, functions, loops, objects, basics of scope and closure).
-- `js-advanced` | deep dives into language internals, performance-aware patterns, advanced async control, generators, and real-world idioms.
+- `js-basic` - core language fundamentals and small practice problems (arrays, functions, loops, objects, basics of scope and closure).
+- `js-advanced` - deep dives into language internals, performance-aware patterns, advanced async control, generators, and real-world idioms.
 
 This repository is built to teach, demonstrate engineering judgment, and serve as a showcase for interview preparation or client review.
 
@@ -39,7 +39,7 @@ Replace `array.js` or `some-advanced-file.js` with any file from the respective 
 
 ## Project structure---> top-level
 
-- `js-basic/` - beginner & intermediate problems; single-concept files ideal for learning and interviews.
+- `js-basic/` - beginner and intermediate problems; single-concept files ideal for learning and interviews.
 - `js-advanced/` - advanced examples and deep-dive topics with performance notes and defensive patterns.
 - `README.md` - this file (overview + navigation for clients/contributors).
 
@@ -82,7 +82,7 @@ This repository keeps examples lightweight by default. I recommend the following
 2. Export pure functions from example files so unit tests can import them. Place tests in a `__tests__/` folder.
 3. Add a GitHub Actions workflow that runs tests on PRs and pushes a status badge to this `README.md`.
 
-If you’d like, I can scaffold:
+**If you’d like, I can scaffold:**
 
 - A minimal `package.json` with a test script
 - One or two example tests for `js-basic` and `js-advanced`
@@ -96,12 +96,37 @@ Tell me which scaffold(s) you want and I’ll add them.
 - Keep side effects isolated for easier testing.
 - Add short comments for any non-obvious decisions or trade-offs.
 
-#### Contact
+### License
 
-If you're reviewing this repository as a client, hiring manager, or contributor and want a guided walkthrough, please open an issue or reach out via the repository contact details.
-
-- **Email:** abu.kayser.official@gmail.com
+- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
+- You may replace or update the license as needed for client or proprietary projects.
 
 ---
 
-**Thank you for exploring | small, focused exercises are a powerful way to master JavaScript and demonstrate engineering judgment.**
+### Contact and Maintainer
+
+**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
+**Name:** Md Abu Kayser - Full-Stack Engineer
+
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **Problem:** _javascript-600-problems-solved_
+
+If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
+
+---
+
+It’s designed to be **clean, well-structured**, and **pleasant to explore** - perfect for interviews or professional problems solved.
+
+---
+
+**If a client or maintainer wants to discuss improvements, pair on content, or request additional problem sets, please open an issue or reach out via the repo's contact information.**
+
+---
+
+**Enjoy learning and exploring JavaScript - basic to advanced problems lead to big understanding.**
+**Thank you for reviewing this project!**
+
+---
+
+**Thank you for exploring - basic and advanced, focused exercises are a powerful way to master JavaScript and demonstrate engineering judgment.**
